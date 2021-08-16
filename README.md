@@ -6,9 +6,9 @@ Ensure your Visual Studio Code application is up to date, and that you have the 
 
 Run the commands below inside your `Projects` folder.
 
-```bash
-git clone git@github.com:MCRcodes/javascript-basics-express.git
-cd your-project-folder-name
+```
+git clone git@github.com:GhostPhayce/javascript-basics-express.git
+cd javascript-basics-express
 npm install
 ```
 
